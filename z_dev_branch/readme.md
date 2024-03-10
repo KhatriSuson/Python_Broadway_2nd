@@ -1,4 +1,4 @@
-git checkout -b "dev"    ( -b = branch  "dev" is branch name)
+git checkout -b "dev"    ( -b = branch  "dev" is branch name)o
 
 
 hello world .
